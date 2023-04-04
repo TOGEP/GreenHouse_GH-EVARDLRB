@@ -35,22 +35,23 @@
 <details>
 <summary>加速度センサ + 温湿度センサを実装する場合</summary>
 
-以下を参考に各部品を基盤上に設置します
-![](assets/LoRa_implementation_image.pdf)
+以下を参考に各部品を基盤上に設置します  
+![LoRa_implementation_image.pdf](assets/LoRa_implementation_image.pdf)  
 
-その後，以下を参考に配線します(配線例は基板の底面側から見た場合の例です)
-![](assets/LoRa_PCB_wiring_example_seen_from_below.pdf)
+その後，以下を参考に配線します(配線例は基板の底面側から見た場合の例です)  
+![LoRa_PCB_wiring_example_seen_from_below.pdf](assets/LoRa_PCB_wiring_example_seen_from_below.pdf)  
 </details>
 
 <details>
 <summary>加速度センサのみ実装する場合</summary>
 
-以下を参考に各部品を基盤上に設置します
-![](assets/LoRa_implementation_image_only_accelerometer.pdf)
+以下を参考に各部品を基盤上に設置します  
+![LoRa_implementation_image_only_accelerometer.pdf](assets/LoRa_implementation_image_only_accelerometer.pdf)  
 
-その後，以下を参考に配線します(配線例は基板の底面側から見た場合の例です)
-![](assets/LoRa_PCB_wiring_example_seen_from_below_only_accelerometer.pdf)
+その後，以下を参考に配線します(配線例は基板の底面側から見た場合の例です)  
+![LoRa_PCB_wiring_example_seen_from_below_only_accelerometer.pdf](assets/LoRa_PCB_wiring_example_seen_from_below_only_accelerometer.pdf)  
 </details>
+
 * * *
 
 ## ケース加工
